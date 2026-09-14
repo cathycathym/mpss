@@ -157,8 +157,9 @@ Set an OpenAI API key and run:
 ```bash
 export OPENAI_API_KEY=YOUR_KEY
 python scripts/generate.py --set all
+```
 
-## Main Results
+## 🎬Main Results
 
 Across all 60 problems:
 
@@ -179,9 +180,10 @@ On the controlled 20-problem set:
 | Best(Base, Prog) | 70.9 | 12/20 |
 | **Synth** | **79.9** | **14/20** |
 
-## Notes
+## ⭐Notes
 
-- The study uses GPT-5.6 through Codex with medium reasoning.
-- All final submissions use the QOJ C++14 environment.
-- Generated programs are preserved without manual repair based on judge outcomes.
+- All candidate and synthesis generations use GPT-5.6 with medium reasoning.
+- Model outputs are evaluated independently by QOJ using the official hidden test cases under a fixed C++14 environment.
+- No QOJ scores, execution results, hidden test outcomes, or correctness labels are provided to GPT-5.6 during generation or synthesis.
+- Generated programs are preserved without manual repair or result-based regeneration.
 - The initial local condition names A, C, R, and D correspond to Base, Prog, Repeat, and Synth in the paper and repository.
