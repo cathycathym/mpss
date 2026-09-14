@@ -1,0 +1,61 @@
+problem_id,problem_name,set,Base,Prog,Repeat,Synth
+7157,Bikes vs Cars,initial40,100,34,,100
+9161,Naval battle,initial40,46,6,,100
+9184,Team Coding,initial40,42,100,,100
+9163,Text editor,initial40,0,19,,100
+10049,Grid Coloring,initial40,25,25,,100
+10050,Bitaro the Brave 2,initial40,100,100,,100
+13167,Monster-Go,initial40,14,8,,98
+13168,Wind Turbines,initial40,100,62,,100
+11401,Exhibition 3,initial40,0,12,,12
+11403,Bitaro's Travel 2,initial40,0,100,,100
+13171,IMO,initial40,10,100,,100
+8707,Jobs,initial40,11,11,,100
+8708,Portal,initial40,100,100,,100
+8709,Trains,initial40,100,100,,100
+8710,Fire,initial40,100,100,,100
+8711,Tiles,initial40,4,4,,24
+8712,Flooding Wall,initial40,12,100,,100
+8266,Astronomer,initial40,9,35,,44
+8269,Minequake,initial40,100,100,,100
+8271,Sequence,initial40,11,0,,100
+62,Examination,initial40,100,100,,100
+185,Bridges,initial40,100,100,,100
+192,Duathlon,initial40,100,100,,100
+360,Cultivation,initial40,80,100,,80
+676,Travelling Merchant,initial40,100,100,,100
+789,One-Way Streets,initial40,100,100,,0
+795,Cloud Computing,initial40,100,100,,100
+948,Fancy Fence,initial40,100,100,,100
+2498,Just Long Neckties,initial40,100,100,,100
+3123,Stove,initial40,100,100,,100
+3141,Foehn Phenomena,initial40,100,100,,100
+3502,Sightseeing in Kyoto,initial40,100,100,,100
+5181,Tourists,initial40,100,0,,100
+7160,Sopsug,initial40,100,100,,100
+8255,Room Temperature,initial40,100,100,,100
+8640,Fish 3,initial40,100,100,,100
+9164,Toy,initial40,100,100,,100
+10399,Angry Cows,initial40,100,100,,100
+10400,Double Move,initial40,100,100,,100
+11445,Nautilus,initial40,100,100,,100
+5514,Maze,controlled20,100,100,67,100
+6332,Two Currencies,controlled20,100,100,100,100
+10881,BOI acronym,controlled20,10,100,44,100
+10882,Tour,controlled20,100,100,100,100
+10884,Developer,controlled20,8,100,8,100
+10886,Gingerbread,controlled20,0,0,0,100
+8256,Construction Project 2,controlled20,100,100,100,100
+8257,Marathon Race 2,controlled20,7,100,100,100
+8258,Gift Exchange,controlled20,100,100,100,100
+8259,Road Service 2,controlled20,27,43,60,43
+8641,Ski 2,controlled20,0,26,59,0
+8643,Board Game,controlled20,100,68,68,100
+8645,Growing Vegetables is Fun 5,controlled20,0,100,100,100
+8646,Card Collection,controlled20,11,11,11,11
+8648,Tower,controlled20,30,30,30,68
+8649,Escape Route 2,controlled20,100,100,100,100
+8651,Table Tennis,controlled20,0,32,100,100
+6333,Festivals in JOI Kingdom 2,controlled20,10,10,37,10
+9165,Petrol stations,controlled20,65,65,65,65
+9166,Sprinklers,controlled20,9,100,26,100

@@ -1,0 +1,26 @@
+You are a one-shot isolated experimental generation worker. Do not inspect local files, use tools, browse, access editorials or solutions, communicate with any other task, or make edits. Return one final response only; it will be preserved verbatim. The complete assigned task follows.\n\nPlease reply with a C++14 solution to the below problem. Make sure to wrap
+your code in ```cpp and ``` Markdown delimiters, and include exactly
+one block of code with the entire solution.
+Reason through the problem and think step by step.
+No outside libraries are allowed.
+Test out your solution on the provided samples, and ensure it works
+correctly.
+
+Before attempting the final code, use the official subtasks as an explicit
+easy-to-hard algorithmic ladder. For each subtask in increasing generality:
+1. State an algorithm sufficient for that subtask and its time complexity.
+2. Before moving to the next subtask, state exactly which assumptions,
+   complexity bounds, case distinctions, or data structures from the previous
+   approach stop being valid.
+3. Explicitly decide what must be discarded or replaced. Do not preserve an
+   earlier subtask algorithm merely because it worked on smaller constraints.
+4. Derive the next approach under the new constraints.
+
+After the last/full subtask, produce one final solution.
+If you cannot solve the full problem, merge the strongest partial approaches
+with strict case checks to maximize total official subtask points.
+Your goal is to maximize your score which is the sum of points for all
+subtasks.
+[BEGIN PROBLEM]
+{problem_block}
+[END PROBLEM]

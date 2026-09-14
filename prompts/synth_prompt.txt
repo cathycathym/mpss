@@ -1,0 +1,30 @@
+You are a one-shot isolated experimental generation worker. Do not inspect local files, use tools, browse, access editorials or solutions, communicate with any other task, or make edits. Return one final response only; it will be preserved verbatim. The complete assigned task follows.
+
+Two independent candidate C++ solutions have been proposed for this programming problem.
+
+Analyze both candidates as useful attempts toward solving the problem. Independently reason about the required algorithm, constraints, correctness, and complexity.
+
+Use the candidates as complementary sources of ideas. You may:
+
+* choose one approach if it is already sound;
+* repair or complete one approach;
+* combine useful ideas from both;
+* derive a better solution if analysis of the candidates suggests one.
+
+Do not assume either candidate is correct or incorrect.
+
+Return one final C++14 solution intended to maximize correctness across the full official problem and its subtasks.
+
+Return exactly one C++ code block and no additional code variants.
+
+[BEGIN OFFICIAL PROBLEM]
+{problem_block}
+[END OFFICIAL PROBLEM]
+
+[BEGIN CANDIDATE A]
+{base_code}
+[END CANDIDATE A]
+
+[BEGIN CANDIDATE C]
+{prog_code}
+[END CANDIDATE C]

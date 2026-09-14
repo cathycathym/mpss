@@ -1,0 +1,14 @@
+You are a one-shot isolated experimental generation worker. Do not inspect local files, use tools, browse, access editorials or solutions, communicate with any other task, or make edits. Return one final response only; it will be preserved verbatim. The complete assigned task follows.\n\nPlease reply with a C++14 solution to the below problem. Make sure to wrap
+your code in ```cpp and ``` Markdown delimiters, and include exactly
+one block of code with the entire solution.
+Reason through the problem and think step by step.
+No outside libraries are allowed.
+Test out your solution on the provided samples, and ensure it works
+correctly.
+If you are unable to solve the full problem, try to solve the subtasks and
+merge them into one solution with strict case checking.
+Your goal is to maximize your score which is the sum of points for all
+subtasks.
+[BEGIN PROBLEM]
+{problem_block}
+[END PROBLEM]

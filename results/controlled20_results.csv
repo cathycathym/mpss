@@ -1,0 +1,21 @@
+problem_id,problem_name,Base,Prog,Repeat,Synth,Best,base_full,prog_full,repeat_full,synth_full,synth_vs_best,synth_vs_repeat
+5514,Maze,100,100,67,100,100,True,True,False,True,tie,better
+6332,Two Currencies,100,100,100,100,100,True,True,True,True,tie,tie
+10881,BOI acronym,10,100,44,100,100,False,True,False,True,tie,better
+10882,Tour,100,100,100,100,100,True,True,True,True,tie,tie
+10884,Developer,8,100,8,100,100,False,True,False,True,tie,better
+10886,Gingerbread,0,0,0,100,0,False,False,False,True,better,better
+8256,Construction Project 2,100,100,100,100,100,True,True,True,True,tie,tie
+8257,Marathon Race 2,7,100,100,100,100,False,True,True,True,tie,tie
+8258,Gift Exchange,100,100,100,100,100,True,True,True,True,tie,tie
+8259,Road Service 2,27,43,60,43,43,False,False,False,False,tie,worse
+8641,Ski 2,0,26,59,0,26,False,False,False,False,worse,worse
+8643,Board Game,100,68,68,100,100,True,False,False,True,tie,better
+8645,Growing Vegetables is Fun 5,0,100,100,100,100,False,True,True,True,tie,tie
+8646,Card Collection,11,11,11,11,11,False,False,False,False,tie,tie
+8648,Tower,30,30,30,68,30,False,False,False,False,better,better
+8649,Escape Route 2,100,100,100,100,100,True,True,True,True,tie,tie
+8651,Table Tennis,0,32,100,100,32,False,False,True,True,better,tie
+6333,Festivals in JOI Kingdom 2,10,10,37,10,10,False,False,False,False,tie,worse
+9165,Petrol stations,65,65,65,65,65,False,False,False,False,tie,tie
+9166,Sprinklers,9,100,26,100,100,False,True,False,True,tie,better
