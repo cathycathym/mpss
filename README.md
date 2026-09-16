@@ -6,7 +6,7 @@ Large language models (LLMs) can generate different solutions to the same progra
 
 The main experimental workflow is shown below.
 
-![Workflow](figure/workflow.png)
+![Workflow](figure/workflow.jpg)
 
 
 ## 🎯Experimental Design
